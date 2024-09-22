@@ -14,3 +14,7 @@ sub(1, 2); // -1
 export const mul = (a, b) => a * b;
 
 mul(1, 2); // 2
+
+export const div = (a, b) => a / b;
+
+div(1, 2); // 0.5
